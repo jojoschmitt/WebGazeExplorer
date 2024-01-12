@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+tobii_research_addons/ScreenBasedCalibrationValidation.py
+tobii_research_addons/__init__.py
+tobii_research_addons/vectormath.py
+tobii_research_addons.egg-info/PKG-INFO
+tobii_research_addons.egg-info/SOURCES.txt
+tobii_research_addons.egg-info/dependency_links.txt
+tobii_research_addons.egg-info/requires.txt
+tobii_research_addons.egg-info/top_level.txt

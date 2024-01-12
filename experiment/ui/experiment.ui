@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ImageWidget</class>
+ <widget class="QWidget" name="ImageWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#ImageWidget{
+	background-color:rgb(30, 32, 75);
+}
+QRadioButton{
+	color: orange;
+}
+QCheckBox{
+	color: orange;
+}</string>
+  </property>
+  <widget class="QLabel" name="instruction_lb">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>100</y>
+     <width>1000</width>
+     <height>781</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel#instruction_lb{
+	color: white;
+}</string>
+   </property>
+   <property name="text">
+    <string>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::RichText</enum>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignHCenter|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QProgressBar" name="progress_bar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>1048</y>
+     <width>1920</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> QProgressBar::chunk {
+     background-color: #05B8CC;
+ }</string>
+   </property>
+   <property name="maximum">
+    <number>100</number>
+   </property>
+   <property name="value">
+    <number>50</number>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="textVisible">
+    <bool>true</bool>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+   <property name="invertedAppearance">
+    <bool>false</bool>
+   </property>
+   <property name="textDirection">
+    <enum>QProgressBar::TopToBottom</enum>
+   </property>
+   <property name="format">
+    <string>Fortschritt %p%</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt1">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>640</y>
+     <width>401</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 1</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt2">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>640</y>
+     <width>451</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 2</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt4">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>680</y>
+     <width>451</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 4</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt3">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>680</y>
+     <width>401</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 3</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt6">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>720</y>
+     <width>451</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 6</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt5">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>720</y>
+     <width>401</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 5</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt8">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>760</y>
+     <width>451</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 8</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radio_bt7">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>760</y>
+     <width>401</width>
+     <height>36</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string> Functionality 7</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="seen_cb">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>850</y>
+     <width>981</width>
+     <height>42</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="text">
+    <string>Ich habe abcdefghij.com schon einmal besucht.</string>
+   </property>
+   <property name="checked">
+    <bool>false</bool>
+   </property>
+   <property name="tristate">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="navigation_header_lb">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>670</y>
+     <width>1000</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel#navigation_header_lb{
+	color: orange;
+}</string>
+   </property>
+   <property name="text">
+    <string>Navigationsaufgabe</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="reference_img">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>20</y>
+     <width>1280</width>
+     <height>720</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="yes_bt">
+   <property name="geometry">
+    <rect>
+     <x>670</x>
+     <y>800</y>
+     <width>250</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#yes_bt{
+	background-color: #D8D9DA;
+	color: black;
+	border-radius: 5px;
+}
+
+QPushButton#yes_bt:hover{
+	background-color: #99FF98;
+}</string>
+   </property>
+   <property name="text">
+    <string>Ja</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="no_bt">
+   <property name="geometry">
+    <rect>
+     <x>1000</x>
+     <y>800</y>
+     <width>250</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton#no_bt{
+	background-color: #D8D9DA;
+	color: black;
+	border-radius: 5px;
+}
+
+QPushButton#no_bt:hover{
+	background-color: #FF9998;
+}</string>
+   </property>
+   <property name="text">
+    <string>Nein</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="correct_lb">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>750</y>
+     <width>1391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel#correct_lb{
+	color: #337CCF;
+}</string>
+   </property>
+   <property name="text">
+    <string>Hast Du eines der hervorgehobenen Elemente identifizieren können?</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="warning_lb">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>970</y>
+     <width>1071</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel#warning_lb{
+	color: red;
+}</string>
+   </property>
+   <property name="text">
+    <string>WARNING</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="navigation_task_lb">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>710</y>
+     <width>1000</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI</family>
+     <pointsize>20</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel#navigation_task_lb{
+	color: orange;
+}</string>
+   </property>
+   <property name="text">
+    <string>hier steht die navigationsaufgabe!</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::RichText</enum>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignHCenter|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <zorder>instruction_lb</zorder>
+  <zorder>seen_cb</zorder>
+  <zorder>reference_img</zorder>
+  <zorder>progress_bar</zorder>
+  <zorder>yes_bt</zorder>
+  <zorder>no_bt</zorder>
+  <zorder>warning_lb</zorder>
+  <zorder>correct_lb</zorder>
+  <zorder>navigation_header_lb</zorder>
+  <zorder>navigation_task_lb</zorder>
+  <zorder>radio_bt4</zorder>
+  <zorder>radio_bt6</zorder>
+  <zorder>radio_bt7</zorder>
+  <zorder>radio_bt2</zorder>
+  <zorder>radio_bt1</zorder>
+  <zorder>radio_bt8</zorder>
+  <zorder>radio_bt3</zorder>
+  <zorder>radio_bt5</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

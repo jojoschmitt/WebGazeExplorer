@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Ignore all directories
+*/
+
+# Do not ignore self
+!.gitignore

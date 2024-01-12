@@ -1,0 +1,7 @@
+tobii_research
+
+[dev]
+check-manifest
+
+[test]
+coverage

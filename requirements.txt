@@ -1,0 +1,9 @@
+pip==22.3.1
+setuptools==65.5.1
+wheel==0.38.4
+PyQt5==5.15.9
+seaborn==0.13.0
+tobii_research==1.11.0
+opencv-python==4.9.0.80
+scipy==1.11.4
+yappi==1.6.0

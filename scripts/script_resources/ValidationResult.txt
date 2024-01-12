@@ -1,0 +1,591 @@
+Validation result for task-id-1
+Directed Mask Correlation 1: 0.3721029961777177
+Heatmap Correlation 1: 0.23867294160416458
+Average Correlation 1: 0.3053879688909411
+Directed Mask Correlation 2: 0.4974377676441557
+Heatmap Correlation 2: 0.43284440035710675
+Average Correlation 2: 0.46514108400063126
+Directed Mask Correlation 3: 0.2596257370825844
+Heatmap Correlation 3: 0.09858616706383025
+Average Correlation 3: 0.17910595207320734
+Directed Mask Correlation 4: 0.38127769553672575
+Heatmap Correlation 4: 0.27853616827885463
+Average Correlation 4: 0.3299069319077902
+Directed Mask Correlation 5: 0.09219682530223197
+Heatmap Correlation 5: 0.16040785496637416
+Average Correlation 5: 0.12630234013430308
+Directed Mask Correlation 6: 0.47697957336458807
+Heatmap Correlation 6: 0.3772808967055129
+Average Correlation 6: 0.4271302350350505
+Directed Mask Correlation 7: 0.44008922539168316
+Heatmap Correlation 7: 0.36622730849758506
+Average Correlation 7: 0.4031582669446341
+Directed Mask Correlation 8: 0.6128050452994505
+Heatmap Correlation 8: 0.3088754218321271
+Average Correlation 8: 0.46084023356578874
+Directed Mask Correlation 9: 0.46861901888646523
+Heatmap Correlation 9: 0.4265679648375825
+Average Correlation 9: 0.4475934918620239
+Directed Mask Correlation 10: 0.5006916216342114
+Heatmap Correlation 10: 0.4249156485113303
+Average Correlation 10: 0.4628036350727709
+Directed Mask Correlation 11: 0.6194458023001806
+Heatmap Correlation 11: 0.23894328579367002
+Average Correlation 11: 0.42919454404692536
+Directed Mask Correlation 12: 0.48102372761312856
+Heatmap Correlation 12: 0.44744283920991024
+Average Correlation 12: 0.46423328341151937
+Directed Mask Correlation 13: 0.4854309744474384
+Heatmap Correlation  13:0.2590935836966419
+Average Correlation 13: 0.3722622790720401
+Directed Mask Correlation 14: 0.5808611419847293
+Heatmap Correlation 14: 0.20072984694974286
+Average Correlation 14: 0.39079549446723605
+Directed Mask Correlation 15: 0.406599222304024
+Heatmap Correlation 15: 0.12192758490689004
+Average Correlation 15: 0.264263403605457
+Directed Mask Correlation 16: -0.044447594130566204
+Heatmap Correlation 16: -0.04490236787875709
+Average Correlation 16: -0.04467498100466165
+Directed Mask Correlation 17: 0.42359482643162183
+Heatmap Correlation 17: 0.3061409030275773
+Average Correlation 17: 0.36486786472959953
+Directed Mask Correlation 18: 0.2979666805537505
+Heatmap Correlation 18: 0.18680887320712702
+Average Correlation 18: 0.24238777688043875
+Directed Mask Correlation 19: 0.25502854980270045
+Heatmap Correlation 19: 0.11865289938200436
+Average Correlation 19: 0.1868407245923524
+Directed Mask Correlation 20: 0.39728745578767644
+Heatmap Correlation 20: 0.28737031310616457
+Average Correlation 20: 0.3423288844469205
+Directed Mask Correlation 21: 0.44865892136614255
+Heatmap Correlation 21: 0.30124222610601603
+Average Correlation 21: 0.3749505737360793
+Directed Mask Correlation 22: 0.36091226174576924
+Heatmap Correlation 22: 0.04419862154759263
+Average Correlation 22: 0.20255544164668093
+Directed Mask Correlation 23: 0.38399786725029705
+Heatmap Correlation 23: 0.2031866489295241
+Average Correlation 23: 0.2935922580899106
+Directed Mask Correlation 24: 0.46375180452404763
+Heatmap Correlation 24: 0.18405276553248145
+Average Correlation 24: 0.32390228502826457
+Directed Mask Correlation 25: 0.4370862164808151
+Heatmap Correlation 25: 0.15728430626395998
+Average Correlation 25: 0.29718526137238754
+Directed Mask Correlation 26: 0.5653802525510622
+Heatmap Correlation 26: 0.3813143579858224
+Average Correlation 26: 0.47334730526844226
+Directed Mask Correlation 27: 0.40758809018688275
+Heatmap Correlation 27: 0.2845573979929817
+Average Correlation 27: 0.3460727440899322
+Directed Mask Correlation 28: 0.4540672227706584
+Heatmap Correlation 28: 0.38864841247397386
+Average Correlation 28: 0.42135781762231617
+Directed Mask Correlation 29: 0.1795532825969585
+Heatmap Correlation 29: 0.10173820965368502
+Average Correlation 29: 0.14064574612532177
+Directed Mask Correlation 30: 0.2447500836067545
+Heatmap Correlation 30: 0.12107119625246882
+Average Correlation 30: 0.18291063992961165
+Directed Mask Correlation 31: 0.21367513144288214
+Heatmap Correlation 31: 0.17100605002145908
+Average Correlation 31: 0.1923405907321706
+Directed Mask Correlation 32: 0.35535611525279903
+Heatmap Correlation 32: 0.3248403332666122
+Average Correlation 32: 0.3400982242597056
+Directed Mask Correlation 33: 0.3933928581792969
+Heatmap Correlation 33: 0.5302895361263444
+Average Correlation 33: 0.4618411971528207
+Directed Mask Correlation 34: 0.1223484960589775
+Heatmap Correlation 34: -0.0011124942633061567
+Average Correlation 34: 0.06061800089783567
+Directed Mask Correlation 35: 0.2800665698040167
+Heatmap Correlation 35: 0.4478621233163899
+Average Correlation 35: 0.36396434656020327
+Directed Mask Correlation 36: 0.5237619904493718
+Heatmap Correlation 36: 0.5298688520335745
+Average Correlation 36: 0.5268154212414731
+Directed Mask Correlation 37: 0.26760837170802043
+Heatmap Correlation 37: 0.45696578692927753
+Average Correlation 37: 0.362287079318649
+Directed Mask Correlation 38: 0.20013232566668435
+Heatmap Correlation 38: 0.014879451665609514
+Average Correlation 38: 0.10750588866614694
+Directed Mask Correlation 39: 0.5162855997713817
+Heatmap Correlation 39: 0.14719846817349547
+Average Correlation 39: 0.33174203397243857
+Directed Mask Correlation 40: 0.36107516318383504
+Heatmap Correlation 40: 0.05410299042873275
+Average Correlation 40: 0.20758907680628388
+Directed Mask Correlation 41: 0.015001609072494704
+Heatmap Correlation 41: 0.0004895574636110157
+Average Correlation 41: 0.00774558326805286
+Directed Mask Correlation 42: 0.06092810916542786
+Heatmap Correlation 42: 0.22792363316189604
+Average Correlation 42: 0.14442587116366196
+Directed Mask Correlation 43: 0.44543514519505584
+Heatmap Correlation 43: 0.399457901174723
+Average Correlation 43: 0.4224465231848894
+Directed Mask Correlation 44: 0.38142882965993513
+Heatmap Correlation 44: 0.3156677740163418
+Average Correlation 44: 0.34854830183813845
+Directed Mask Correlation 45: 0.23423973125042602
+Heatmap Correlation 45: 0.32189894813778364
+Average Correlation 45: 0.27806933969410486
+Directed Mask Correlation 46: 0.5752235681596075
+Heatmap Correlation 46: 0.24545668741746152
+Average Correlation 46: 0.4103401277885345
+Directed Mask Correlation 47: 0.5563684187241744
+Heatmap Correlation 47: 0.48646579754290487
+Average Correlation 47: 0.5214171081335397
+Directed Mask Correlation 48: 0.3614365031973775
+Heatmap Correlation 48: 0.2093884976476174
+Average Correlation 48: 0.28541250042249744
+Directed Mask Correlation 49: 0.35788792582494067
+Heatmap Correlation 49: 0.492281688864908
+Average Correlation 49: 0.4250848073449243
+Directed Mask Correlation 50: 0.45889606174133313
+Heatmap Correlation 50: 0.4052641262826798
+Average Correlation 50: 0.4320800940120065
+Directed Mask Correlation 51: 0.39986639073755215
+Heatmap Correlation 51: 0.29973297272992216
+Average Correlation 51: 0.34979968173373716
+Directed Mask Correlation 52: 0.5412990004320077
+Heatmap Correlation 52: 0.39488069357600214
+Average Correlation 52: 0.4680898470040049
+Directed Mask Correlation 53: 0.5570565179508813
+Heatmap Correlation 53: 0.500642274675743
+Average Correlation 53: 0.5288493963133121
+Directed Mask Correlation 54: 0.6017308913310254
+Heatmap Correlation 54: 0.34360884181818996
+Average Correlation 54: 0.4726698665746077
+Directed Mask Correlation 55: 0.5497482454327386
+Heatmap Correlation 55: 0.39927804397380795
+Average Correlation 55: 0.47451314470327327
+Directed Mask Correlation 56: 0.3497311812646222
+Heatmap Correlation 56: 0.13442629641601314
+Average Correlation 56: 0.24207873884031766
+Directed Mask Correlation 57: 0.46075435183130664
+Heatmap Correlation 57: 0.20258207230072678
+Average Correlation 57: 0.3316682120660167
+Directed Mask Correlation 58: 0.34765619505752293
+Heatmap Correlation 58: 0.12575128464487753
+Average Correlation 58: 0.23670373985120025
+Directed Mask Correlation 59: 0.523238975844422
+Heatmap Correlation 59: 0.3500735925050189
+Average Correlation 59: 0.43665628417472047
+Directed Mask Correlation 60: 0.49410538488438754
+Heatmap Correlation 60: 0.3171364262397838
+Average Correlation 60: 0.40562090556208563
+Directed Mask Correlation 61: 0.1652677111606917
+Heatmap Correlation 61: 0.22157759515728243
+Average Correlation 61: 0.19342265315898705
+Directed Mask Correlation 62: 0.09239049611547502
+Heatmap Correlation 62: 0.09406407107657143
+Average Correlation 62: 0.09322728359602322
+Directed Mask Correlation 63: 0.33800031119032037
+Heatmap Correlation 63: 0.01064234151434483
+Average Correlation 63: 0.1743213263523326
+Directed Mask Correlation 64: 0.5117422799598925
+Heatmap Correlation 64: 0.26726543253793134
+Average Correlation 64: 0.38950385624891193
+task-id-1 - Directed Mask Standard Deviation: 0.15382420381131698
+task-id-1 - Directed Mask Coefficient of Variation: 40.078773560887214
+task-id-1 - Heatmap Standard Deviation: 0.14664843406457995
+task-id-1 - Heatmap Coefficient of Variation: 55.719228972649226
+Validation result for task-id-2
+Directed Mask Correlation 1: 0.6541898798186342
+Heatmap Correlation 1: 0.41615013770863496
+Average Correlation 1: 0.5351700087636346
+Directed Mask Correlation 2: 0.4806409770349451
+Heatmap Correlation 2: 0.32391862176010944
+Average Correlation 2: 0.4022797993975273
+Directed Mask Correlation 3: 0.44541779122633346
+Heatmap Correlation 3: 0.1942022824511095
+Average Correlation 3: 0.31981003683872145
+Directed Mask Correlation 4: 0.7806609486821652
+Heatmap Correlation 4: 0.2741411507377066
+Average Correlation 4: 0.527401049709936
+Directed Mask Correlation 5: 0.6335103520845025
+Heatmap Correlation 5: 0.44765663804824923
+Average Correlation 5: 0.5405834950663758
+Directed Mask Correlation 6: 0.172783182067125
+Heatmap Correlation 6: 0.005531784594877607
+Average Correlation 6: 0.0891574833310013
+Directed Mask Correlation 7: 0.44014987254255766
+Heatmap Correlation 7: 0.3069114340923571
+Average Correlation 7: 0.3735306533174574
+Directed Mask Correlation 8: 0.4273069460064974
+Heatmap Correlation 8: 0.39403023247511465
+Average Correlation 8: 0.410668589240806
+Directed Mask Correlation 9: 0.6624170111329433
+Heatmap Correlation 9: 0.41913676650495474
+Average Correlation 9: 0.540776888818949
+Directed Mask Correlation 10: 0.1763342462628314
+Heatmap Correlation 10: 0.3100228401216442
+Average Correlation 10: 0.2431785431922378
+Directed Mask Correlation 11: 0.6739817276361519
+Heatmap Correlation 11: 0.40176992352672003
+Average Correlation 11: 0.537875825581436
+Directed Mask Correlation 12: 0.49434481955664394
+Heatmap Correlation 12: 0.2306426075756947
+Average Correlation 12: 0.36249371356616933
+Directed Mask Correlation 13: 0.6385809696959477
+Heatmap Correlation 13: 0.33237563229671785
+Average Correlation 13: 0.48547830099633277
+Directed Mask Correlation 14: 0.15899561271966323
+Heatmap Correlation 14: 0.17524826149841277
+Average Correlation 14: 0.167121937109038
+Directed Mask Correlation 15: 0.689927597280072
+Heatmap Correlation 15: 0.45037341979983647
+Average Correlation 15: 0.5701505085399543
+Directed Mask Correlation 16: 0.36428227312626277
+Heatmap Correlation 16: 0.28233462964030465
+Average Correlation 16: 0.3233084513832837
+Directed Mask Correlation 17: 0.522754900585827
+Heatmap Correlation 17: 0.40163694434792935
+Average Correlation 17: 0.46219592246687813
+Directed Mask Correlation 18: 0.11141980198133715
+Heatmap Correlation 18: 0.28294954585276566
+Average Correlation 18: 0.1971846739170514
+Directed Mask Correlation 19: 0.3549193699591413
+Heatmap Correlation 19: 0.3404632845224201
+Average Correlation 19: 0.34769132724078067
+Directed Mask Correlation 20: 0.09643520986054452
+Heatmap Correlation 20: 0.025345459689411393
+Average Correlation 20: 0.060890334774977954
+Directed Mask Correlation 21: -0.03919596769751126
+Heatmap Correlation 21: 0.1799244585432273
+Average Correlation 21: 0.07036424542285802
+Directed Mask Correlation 22: 0.5387759086659037
+Heatmap Correlation 22: 0.38576870105799393
+Average Correlation 22: 0.4622723048619488
+Directed Mask Correlation 23: 0.2282636225170201
+Heatmap Correlation 23: -0.05935496428891622
+Average Correlation 23: 0.08445432911405193
+Directed Mask Correlation 24: 0.6286858164694836
+Heatmap Correlation 24: 0.44105043843390296
+Average Correlation 24: 0.5348681274516933
+Directed Mask Correlation 25: 0.627966091890499
+Heatmap Correlation 25: 0.26302894373976327
+Average Correlation 25: 0.44549751781513114
+Directed Mask Correlation 26: 0.6460093205689035
+Heatmap Correlation 26: 0.1753604324197338
+Average Correlation 26: 0.4106848764943186
+Directed Mask Correlation 27: 0.23903955075626437
+Heatmap Correlation 27: 0.25899400391301447
+Average Correlation 27: 0.24901677733463942
+Directed Mask Correlation 28: 0.23151717050992066
+Heatmap Correlation 28: -0.10624223218427781
+Average Correlation 28: 0.06263746916282142
+Directed Mask Correlation 29: 0.2674441790104289
+Heatmap Correlation 29: 0.5281493058934407
+Average Correlation 29: 0.39779674245193475
+Directed Mask Correlation 30: 0.1331634873059213
+Heatmap Correlation 30: 0.3090713147198061
+Average Correlation 30: 0.2211174010128637
+Directed Mask Correlation 31: 0.20376725241036608
+Heatmap Correlation 31: -0.055651879546607635
+Average Correlation 31: 0.07405768643187922
+Directed Mask Correlation 32: -0.03268822473174075
+Heatmap Correlation 32: 0.1946848569525413
+Average Correlation 32: 0.08099831611040029
+Directed Mask Correlation 33: 0.24049698344609122
+Heatmap Correlation 33: 0.2985211051755638
+Average Correlation 33: 0.2695090443108275
+Directed Mask Correlation 34: 0.642985782323161
+Heatmap Correlation 34: 0.28482290449326464
+Average Correlation 34: 0.4639043434082128
+Directed Mask Correlation 35: 0.3568787049240876
+Heatmap Correlation 35: 0.23720861402762558
+Average Correlation 35: 0.2970436594758566
+Directed Mask Correlation 36: 0.6863091378766989
+Heatmap Correlation 36: 0.48199684541892185
+Average Correlation 36: 0.5841529916478103
+Directed Mask Correlation 37: 0.046027373484480244
+Heatmap Correlation 37: 0.10824825594276413
+Average Correlation 37: 0.07713781471362219
+Directed Mask Correlation 38: 0.6379248168949212
+Heatmap Correlation 38: 0.37064310862410105
+Average Correlation 38: 0.5042839627595112
+Directed Mask Correlation 39: 0.5481809622178232
+Heatmap Correlation 39: 0.4044544820575998
+Average Correlation 39: 0.4763177221377115
+Directed Mask Correlation 40: 0.002923881016004562
+Heatmap Correlation 40: 0.04692045887417035
+Average Correlation 40: 0.024922169945087457
+Directed Mask Correlation 41: 0.36646722713834506
+Heatmap Correlation 41: 0.34759751757708246
+Average Correlation 41: 0.3570323723577138
+Directed Mask Correlation 42: 0.30695765080224396
+Heatmap Correlation 42: 0.3798446108942299
+Average Correlation 42: 0.3434011308482369
+Directed Mask Correlation 43: 0.2849441219608695
+Heatmap Correlation 43: -0.04147240269865579
+Average Correlation 43: 0.12173585963110685
+Directed Mask Correlation 44: 0.4257010245461414
+Heatmap Correlation 44: 0.3998899885484087
+Average Correlation 44: 0.41279550654727504
+Directed Mask Correlation 45: 0.68089492289478
+Heatmap Correlation 45: 0.4924550672674731
+Average Correlation 45: 0.5866749950811265
+Directed Mask Correlation 46: 0.19431807157821473
+Heatmap Correlation 46: 0.33089471522574676
+Average Correlation 46: 0.2626063934019808
+Directed Mask Correlation 47: 0.15028456193516437
+Heatmap Correlation 47: 0.2391048485141912
+Average Correlation 47: 0.1946947052246778
+Directed Mask Correlation 48: 0.06085875698689343
+Heatmap Correlation 48: 0.26084322026115964
+Average Correlation 48: 0.16085098862402653
+Directed Mask Correlation 49: 0.12671189536530153
+Heatmap Correlation 49: 0.4911133134856932
+Average Correlation 49: 0.3089126044254974
+Directed Mask Correlation 50: -0.1362202231094263
+Heatmap Correlation 50: 0.001534982610091662
+Average Correlation 50: -0.06734262024966732
+Directed Mask Correlation 51: 0.12942308248360407
+Heatmap Correlation 51: 0.1159464925142929
+Average Correlation 51: 0.12268478749894848
+Directed Mask Correlation 52: 0.18473200510619292
+Heatmap Correlation 52: 0.08942833371680174
+Average Correlation 52: 0.13708016941149734
+Directed Mask Correlation 53: 0.09569655551862466
+Heatmap Correlation 53: 0.21325787584608624
+Average Correlation 53: 0.15447721568235545
+Directed Mask Correlation 54: 0.44535729557787995
+Heatmap Correlation 54: 0.5393684911586851
+Average Correlation 54: 0.49236289336828254
+Directed Mask Correlation 55: 0.5394159119183806
+Heatmap Correlation 55: 0.409943668942728
+Average Correlation 55: 0.4746797904305543
+Directed Mask Correlation 56: 0.5841173353075252
+Heatmap Correlation 56: 0.1362647937368511
+Average Correlation 56: 0.36019106452218813
+Directed Mask Correlation 57: 0.7053226972562059
+Heatmap Correlation 57: 0.5391142648888821
+Average Correlation 57: 0.622218481072544
+Directed Mask Correlation 58: 0.521621698171701
+Heatmap Correlation 58: 0.36719753134003885
+Average Correlation 58: 0.44440961475586993
+Directed Mask Correlation 59: 0.2578541821776329
+Heatmap Correlation 59: 0.06435252100417434
+Average Correlation 59: 0.1611033515909036
+Directed Mask Correlation 60: 0.2776706268999543
+Heatmap Correlation 60: 0.4638726335438124
+Average Correlation 60: 0.37077163022188336
+Directed Mask Correlation 61: 0.5314868372797681
+Heatmap Correlation 61: 0.57329804862527
+Average Correlation 61: 0.5523924429525191
+Directed Mask Correlation 62: 0.0918267949893411
+Heatmap Correlation 62: 0.45142236931230967
+Average Correlation 62: 0.2716245821508254
+Directed Mask Correlation 63: 0.04274245885126533
+Heatmap Correlation 63: -0.10945156343445167
+Average Correlation 63: -0.03335455229159317
+Directed Mask Correlation 64: 0.0018773948288467734
+Heatmap Correlation 64: 0.16947483526929794
+Average Correlation 64: 0.08567611504907235
+task-id-2 - Directed Mask Standard Deviation: 0.2386502179607258
+task-id-2 - Directed Mask Coefficient of Variation: 67.333312103273
+task-id-2 - Heatmap Standard Deviation: 0.1725080243374995
+task-id-2 - Heatmap Coefficient of Variation: 62.41902858453611
+Validation result for task-id-3
+Directed Mask Correlation 1: 0.31780969543356713
+Heatmap Correlation 1: 0.20057651279013544
+Average Correlation 1: 0.25919310411185126
+Directed Mask Correlation 2: 0.40296988954664203
+Heatmap Correlation 2: 0.15533182662031783
+Average Correlation 2: 0.27915085808347995
+Directed Mask Correlation 3: 0.4280280206486861
+Heatmap Correlation 3: 0.1795819940034853
+Average Correlation 3: 0.30380500732608573
+Directed Mask Correlation 4: 0
+Heatmap Correlation 4: 0.07129791100184968
+Average Correlation 4: 0.03564895550092484
+Directed Mask Correlation 5: 0.17479143589421495
+Heatmap Correlation 5: 0.3031440624329442
+Average Correlation 5: 0.23896774916357955
+Directed Mask Correlation 6: 0.17019764657962622
+Heatmap Correlation 6: -0.04586159969778224
+Average Correlation 6: 0.06216802344092199
+Directed Mask Correlation 7: 0.09976229434487886
+Heatmap Correlation 7: 0.3684290304777218
+Average Correlation 7: 0.23409566241130034
+Directed Mask Correlation 8: 0.22680581824308563
+Heatmap Correlation 8: 0.16975401287546268
+Average Correlation 8: 0.19827991555927416
+Directed Mask Correlation 9: 0.38618589472089265
+Heatmap Correlation 9: 0.11092295230135814
+Average Correlation 9: 0.2485544235111254
+Directed Mask Correlation 10: 0.11576589548219274
+Heatmap Correlation 10: 0.4251684034813819
+Average Correlation 10: 0.2704671494817873
+Directed Mask Correlation 11: 0.2574862740493775
+Heatmap Correlation 11: 0.35683054841990625
+Average Correlation 11: 0.3071584112346419
+Directed Mask Correlation 12: 0.5255302994855111
+Heatmap Correlation 12: 0.4907350198511898
+Average Correlation 12: 0.5081326596683504
+Directed Mask Correlation 13: 0.24682038539915543
+Heatmap Correlation 13: 0.39098227052561096
+Average Correlation 13: 0.3189013279623832
+Directed Mask Correlation 14: 0.24377258819662384
+Heatmap Correlation 14: 0.015218502538127359
+Average Correlation 14: 0.1294955453673756
+Directed Mask Correlation 15: 0.10228205625365301
+Heatmap Correlation 15: 0.2654841600933825
+Average Correlation 15: 0.18388310817351775
+Directed Mask Correlation 16: 0.3726747209013386
+Heatmap Correlation 16: 0.1545724321313325
+Average Correlation 16: 0.26362357651633556
+Directed Mask Correlation 17: 0.23140889929585723
+Heatmap Correlation 17: 0.2823633015038462
+Average Correlation 17: 0.2568861003998517
+Directed Mask Correlation 18: 0.465535719696907
+Heatmap Correlation 18: 0.11278378768541197
+Average Correlation 18: 0.2891597536911595
+Directed Mask Correlation 19: 0.2696318139314307
+Heatmap Correlation 19: 0.2231023056894323
+Average Correlation 19: 0.2463670598104315
+Directed Mask Correlation 20: 0.02675407598441887
+Heatmap Correlation 20: -0.09182458604428687
+Average Correlation 20: -0.032535255029934
+Directed Mask Correlation 21: 0.0035310072833320194
+Heatmap Correlation 21: -0.08034400964933987
+Average Correlation 21: -0.03840650118300393
+Directed Mask Correlation 22: 0.2966654134795103
+Heatmap Correlation 22: 0.17760978539716382
+Average Correlation 22: 0.23713759943833707
+Directed Mask Correlation 23: 0.2209686376993547
+Heatmap Correlation 23: 0.13198270279904176
+Average Correlation 23: 0.17647567024919825
+Directed Mask Correlation 24: -0.051366664418268856
+Heatmap Correlation 24: 0.017625357873552544
+Average Correlation 24: -0.016870653272358156
+Directed Mask Correlation 25: 0.09748984637909269
+Heatmap Correlation 25: 0.257707729826799
+Average Correlation 25: 0.17759878810294585
+Directed Mask Correlation 26: 0.22166048191266288
+Heatmap Correlation 26: 0.4768590552160885
+Average Correlation 26: 0.3492597685643757
+Directed Mask Correlation 27: 0.2616716613872931
+Heatmap Correlation 27: 0.058565388811494194
+Average Correlation 27: 0.16011852509939364
+Directed Mask Correlation 28: 0.4396863730313108
+Heatmap Correlation 28: 0.31328755166770467
+Average Correlation 28: 0.37648696234950774
+Directed Mask Correlation 29: 0.2866193037206958
+Heatmap Correlation 29: 0.42348550478696456
+Average Correlation 29: 0.35505240425383017
+Directed Mask Correlation 30: 0.2799073305925777
+Heatmap Correlation 30: 0.1894236567834011
+Average Correlation 30: 0.2346654936879894
+Directed Mask Correlation 31: 0.4040577651983464
+Heatmap Correlation 31: 0.16709062609258135
+Average Correlation 31: 0.2855741956454639
+Directed Mask Correlation 32: 0.153991343248011
+Heatmap Correlation 32: 0.049762815445197554
+Average Correlation 32: 0.10187707934660428
+Directed Mask Correlation 33: 0.3868539578085626
+Heatmap Correlation 33: 0.1572657523919116
+Average Correlation 33: 0.2720598551002371
+Directed Mask Correlation 34: 0.41899171640138966
+Heatmap Correlation 34: 0.20536908790320454
+Average Correlation 34: 0.3121804021522971
+Directed Mask Correlation 35: 0.10907844105386745
+Heatmap Correlation 35: -0.1060619277364802
+Average Correlation 35: 0.001508256658693627
+Directed Mask Correlation 36: 0.31295224284839146
+Heatmap Correlation 36: 0.4461424582325837
+Average Correlation 36: 0.3795473505404876
+Directed Mask Correlation 37: 0.08062101641594514
+Heatmap Correlation 37: 0.05560043102878438
+Average Correlation 37: 0.06811072372236476
+Directed Mask Correlation 38: 0.2266995119333997
+Heatmap Correlation 38: 0.258990853206118
+Average Correlation 38: 0.24284518256975884
+Directed Mask Correlation 39: 0.17896494128878848
+Heatmap Correlation 39: 0.11233493131387262
+Average Correlation 39: 0.14564993630133055
+Directed Mask Correlation 40: 0.29742263113480927
+Heatmap Correlation 40: 0.08963832915470883
+Average Correlation 40: 0.19353048014475904
+Directed Mask Correlation 41: 0.14693903506462275
+Heatmap Correlation 41: 0.48989698393094255
+Average Correlation 41: 0.31841800949778265
+Directed Mask Correlation 42: 0.09837885583414077
+Heatmap Correlation 42: 0.20305105262467307
+Average Correlation 42: 0.15071495422940692
+Directed Mask Correlation 43: 0.3976937928198454
+Heatmap Correlation 43: 0.26311620628693033
+Average Correlation 43: 0.33040499955338787
+Directed Mask Correlation 44: 0.28702905229039566
+Heatmap Correlation 44: 0.30953876232345096
+Average Correlation 44: 0.29828390730692333
+Directed Mask Correlation 45: 0.3149924751400835
+Heatmap Correlation 45: 0.22315232175897726
+Average Correlation 45: 0.26907239844953035
+Directed Mask Correlation 46: 0.2353106305831097
+Heatmap Correlation 46: 0.2851547659902035
+Average Correlation 46: 0.2602326982866566
+Directed Mask Correlation 47: 0.45356204000377853
+Heatmap Correlation 47: 0.21122603220090838
+Average Correlation 47: 0.33239403610234347
+Directed Mask Correlation 48: -0.00519160214053159
+Heatmap Correlation 48: 0.33192480262436713
+Average Correlation 48: 0.16336660024191776
+Directed Mask Correlation 49: 0
+Heatmap Correlation 49: 0
+Average Correlation 49: 0
+Directed Mask Correlation 50: 0.2623494736134061
+Heatmap Correlation 50: 0.10876816446955559
+Average Correlation 50: 0.18555881904148086
+Directed Mask Correlation 51: 0.2886800028068141
+Heatmap Correlation 51: 0.18149103430752705
+Average Correlation 51: 0.23508551855717058
+Directed Mask Correlation 52: 0.24727824513728783
+Heatmap Correlation 52: 0.14229029267093524
+Average Correlation 52: 0.19478426890411155
+Directed Mask Correlation 53: 0.3316116056093241
+Heatmap Correlation 53: 0.0023887274168848324
+Average Correlation 53: 0.16700016651310448
+Directed Mask Correlation 54: 0.08770315636042467
+Heatmap Correlation 54: 0.3967731516115787
+Average Correlation 54: 0.24223815398600168
+Directed Mask Correlation 55: 0.3109522541273878
+Heatmap Correlation 55: 0.3029386423124068
+Average Correlation 55: 0.30694544821989733
+Directed Mask Correlation 56: 0.1639504465599556
+Heatmap Correlation 56: -0.025273902838487634
+Average Correlation 56: 0.06933827186073399
+Directed Mask Correlation 57: 0.0909711635627567
+Heatmap Correlation 57: 0.0697631714140105
+Average Correlation 57: 0.0803671674883836
+Directed Mask Correlation 58: 0.025971844380603258
+Heatmap Correlation 58: -0.012301000618115794
+Average Correlation 58: 0.006835421881243732
+Directed Mask Correlation 59: 0.2297016076809535
+Heatmap Correlation 59: 0.17041601484704869
+Average Correlation 59: 0.2000588112640011
+Directed Mask Correlation 60: 0.38225956750376067
+Heatmap Correlation 60: 0.12033390663525581
+Average Correlation 60: 0.2512967370695082
+Directed Mask Correlation 61: 0.20078597497091838
+Heatmap Correlation 61: 0.41724026199127484
+Average Correlation 61: 0.3090131184810966
+Directed Mask Correlation 62: 0.47202153039491335
+Heatmap Correlation 62: 0.10756425892779288
+Average Correlation 62: 0.2897928946613531
+Directed Mask Correlation 63: 0.3148699673721297
+Heatmap Correlation 63: 0.18719564192924634
+Average Correlation 63: 0.251032804650688
+Directed Mask Correlation 64: 0.3159136264114664
+Heatmap Correlation 64: 0.09593226967016191
+Average Correlation 64: 0.20592294804081418
+task-id-3 - Directed Mask Standard Deviation: 0.13711356648385772
+task-id-3 - Directed Mask Coefficient of Variation: 57.18867862630628
+task-id-3 - Heatmap Standard Deviation: 0.14977656339917306
+task-id-3 - Heatmap Coefficient of Variation: 79.06703313449351
